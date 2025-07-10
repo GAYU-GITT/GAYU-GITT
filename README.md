@@ -46,3 +46,5 @@
 ## 🏅 Certifications
 
 - ![AWS Logo](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20–%20Associate-orange?logo=amazon-aws&logoColor=white)
+
+ [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b8748ad5-4bb7-47d0-a192-7318d993f3aa/public_url)
