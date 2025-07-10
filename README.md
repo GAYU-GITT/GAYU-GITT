@@ -1,13 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Gayathri Vandana
 
 - 🔭 I’m currently working as Cloud Engineer II (DevOps & SRE)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I am a AWS Certified Solutions Architect Associate.
 
 
 
@@ -31,7 +25,7 @@
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-0052CC?style=flat&logo=amazon-eks&logoColor=white)
 
-### 🛠️ Core AWS Services
+### 🛠️ AWS Services
 
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
@@ -49,3 +43,6 @@
 
 ---
 
+## 🏅 Certifications
+
+- ![AWS Logo](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20–%20Associate-orange?logo=amazon-aws&logoColor=white)
