@@ -32,9 +32,12 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 - 🏆 AWS Certified Solutions Architect – Associate (2024)  
+  [![View Certificate](https://img.shields.io/badge/Verify-Credly-blue?style=flat&logo=credly)](https://www.credly.com/badges/b8748ad5-4bb7-47d0-a192-7318d993f3aa/public_url)  
+
 - 📌 AWS Knowledge: Amazon EKS (2025)  
+  [![View Certificate](https://img.shields.io/badge/Verify-Credly-blue?style=flat&logo=credly)](https://www.credly.com/badges/841b8828-5e18-4495-a4be-6f9c085bfee2/public_url)  
 
 ---
 
