@@ -49,8 +49,8 @@
 
 ## 📈 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GAYU-GITT&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAYU-GITT&layout=compact&theme=tokyonight) 
 
 ---
 ✨ *I enjoy solving complex infrastructure challenges and building cloud systems that are reliable, secure, and cost-optimized.* 
